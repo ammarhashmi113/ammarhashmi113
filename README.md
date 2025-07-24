@@ -24,6 +24,19 @@
 
 ---
 
+## 🔥 Projects I'm Proud Of
+
+### 🍔 [Biterunner (June 2025 - Present)](https://github.com/ammarhashmi113/Biterunner)  
+A restaurant ordering app like Domino’s — built with the MERN stack. Includes cart, checkout, JWT auth, and an admin dashboard.
+
+### 🏕️ [Campverse (April 2025 - Present)](https://campverse-booking-app.vercel.app)  
+Full-stack campground booking app. Users can host, book, and review camps. Built with React, Express, and MongoDB.
+
+### 📝 [Devblogs (WIP)](https://github.com/ammarhashmi113/devblogs)  
+A developer-focused blog platform where anyone can post and share technical content. Currently building the REST API using the MEN stack (MongoDB, Express, Node.js).
+
+---
+
 ## 🧰 My Tech Toolbox
 
 ### 💻 Languages & Runtime
@@ -66,20 +79,6 @@
   <img src="https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white"/>
 </p>
-
----
-
-## 🔥 Projects I'm Proud Of
-
-### 🍔 [Biterunner (June 2025 - Present)](https://github.com/ammarhashmi113/Biterunner)  
-A restaurant ordering app like Domino’s — built with the MERN stack. Includes cart, checkout, JWT auth, and an admin dashboard.
-
-### 🏕️ [Campverse (April 2025 - Present)](https://campverse-booking-app.vercel.app)  
-Full-stack campground booking app. Users can host, book, and review camps. Built with React, Express, and MongoDB.
-
-### 📝 [Devblogs (WIP)](https://github.com/ammarhashmi113/devblogs)  
-A developer-focused blog platform where anyone can post and share technical content. Currently building the REST API using the MEN stack (MongoDB, Express, Node.js).
-
 
 ---
 
