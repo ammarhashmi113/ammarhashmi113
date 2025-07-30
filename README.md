@@ -86,13 +86,9 @@ A developer-focused blog platform where anyone can post and share technical cont
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ammarhashmi113&show_icons=true&theme=react" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammarhashmi113&layout=compact&theme=react" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammarhashmi113&layout=compact&theme=react&cache_seconds=1" height="180"/>
 </p>
   
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ammarhashmi113&theme=onedark&margin-w=10&no-bg=true" height="180"/>
 </p>
 
 ---
