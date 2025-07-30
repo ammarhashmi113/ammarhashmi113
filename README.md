@@ -1,7 +1,7 @@
 <h1 align="center">Hello World, I'm Ammar</h1>
 
 <p align="center">
-  A CS grad turned full-stack dev 🇵🇰 | MERN stack enthusiast | Building cool stuff & sipping chai ☕
+  Full-stack dev | MERN stack enthusiast | Building cool stuff & sipping chai ☕
 </p>
 
 <p align="center">
@@ -16,24 +16,57 @@
 
 ## 🚀 About Me
 
-🎓 CS Graduate — Bahria University (2020–2024)  
-🧠 Passionate about building real-world apps using the MERN stack  
-📦 Currently working on [**Biterunner**](https://github.com/ammarhashmi113/Biterunner) — a food ordering platform  
-🐱 Cat feeder by day, chai lover by night ☕  
-🌍 Based in Islamabad, Pakistan  
+🎓 CS Graduate from Bahria University. (2020–2024)  
+🧑‍💻 Full-stack developer focused on building production-ready apps using the MERN stack.  
+🧪 Currently working on [**Devblogs**](https://github.com/ammarhashmi113/devblogs), a full-stack blog hosting app.  
+🐱 Cat feeder by day, chai lover by night. ☕  
+📍 Based in Islamabad, open to relocation or remote roles.   
 
 ---
 
-## 🔥 Projects I'm Proud Of
+## 🧱 Featured Projects
 
-### 🍔 [Biterunner (June 2025 - Present)](https://github.com/ammarhashmi113/Biterunner)  
-A restaurant ordering app like Domino’s — built with the MERN stack. Includes cart, checkout, JWT auth, and an admin dashboard.
+### 🍔 [Biterunner (2025 – Present)](https://github.com/ammarhashmi113/Biterunner)  
 
-### 🏕️ [Campverse (April 2025 - Present)](https://campverse-booking-app.vercel.app)  
-Full-stack campground booking app. Users can host, book, and review camps. Built with React, Express, and MongoDB.
+#### 🔀 App Workflow:
+- Biterunner is a full-stack restaurant app with built-in online ordering.
+- It allows its admins to manage their menu items and manage incoming orders in real-time.
+- It allows its users to explore the menu, add items to the cart, proceed to checkout, and place an order.
+- A dedicated "My Orders" page lets users track their order statuses.
+
+#### ⚙️ Technical Details:
+
+##### Frontend:
+- *Developed* Biterunner's frontend with **ReactJS** using the **Vite** setup.
+- *Used* advanced React techniques such as **conditional rendering**, **props passing**, **state management**, and **useEffect**.
+- *Used* **useContext** for sharing the logged-in user data across the app, and avoided **props drilling**.
+- *Used* fundamental react techniques like **component design**, **JSX markup**, and **component nesting**.
+- *Used* **axios** for sending API requests to the backend.
+- *Used* **react-router-dom** for client-side routing and rendered pages based on the current URL.
+- *Used* **modals** for cleaner UX and avoided page transitions.
+- *Used* **react-hot-toast** for showing real-time user notifications after actions (e.g. login, form submission, etc.)
+- *Used* **TailwindCSS** for designing the UI.
+
+##### Backend:
+- Developed a **RESTful** API for Biterunner using **Node.js**, **Express**, and **MongoDB** for database.
+- Built a **JWT-based** authentication system with **role-based access** (admin vs user) to protect routes.
+- Used **Joi** to validate the request object schema before saving it to the DB, thus avoiding ugly mongoose errors.
+- Created **reusable middlewares** for authentication, authorization, Joi schema validation, and ObjectId validation.
+- Created **custom error class** *AppError* for sending clear error messages from the backend.
+- Developed **centralized error-handling middleware** to catch and respond to backend errors cleanly.
+- Used MongoDB’s **populate** to include related data in API responses.
+- Engineered auth routes for **registration**, **login**, and **profile updates**, and checked for duplicate emails and usernames.
+- Engineered admin routes for **full menu CRUD** and **updating order statuses**.
+- Engineered user routes for browsing the menu, placing orders, and viewing their orders.
+- Assigned the admin role automatically if the email used during signup matched admin-eligible emails.
+- Used **.env** file to store critical data like admin-eligible emails, API keys, and database URIs.
+
+
+### 🏕️ [Campverse](https://campverse-booking-app.vercel.app)  
+Campground booking platform with hosting, booking, reviewing, and full role-based access control. Features protected routes, review moderation, and booking workflows.
 
 ### 📝 [Devblogs (WIP)](https://github.com/ammarhashmi113/devblogs)  
-A developer-focused blog platform where anyone can post and share technical content. Currently building the REST API using the MEN stack (MongoDB, Express, Node.js).
+A blog platform for developers to write, post, and share tech content. Backend REST API built with the MEN stack (MongoDB, Express, Node.js).
 
 ---
 
