@@ -1,11 +1,11 @@
 <h1 align="center">Hello World, I'm Ammar</h1>
 
 <p align="center">
-  Full-stack dev | MERN stack enthusiast | Building cool stuff & sipping chai ☕
+  Full-stack dev | Automation enthusiast | Building + Automating cool stuff & sipping chai ☕
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=635&lines=Full-Stack+Developer;CS+Grad+%7C+MERN+Stack+%7C+React+Lover;Building+production-ready+web+apps+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=635&lines=Full-Stack+Developer+%7C+Automation+Enthusiast;CS+Grad+%7C+MERN+Stack+%7C+React+Lover;Building+production-ready+web+apps+🚀" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,6 +18,7 @@
 
 🎓 CS Graduate from Bahria University. (2020–2024)  
 🧑‍💻 Full-stack developer focused on building production-ready apps using the MERN stack.  
+🤖 Automate boring stuff with Selenium when I'm free.  
 🧪 Currently working on [**Devblogs**](https://github.com/ammarhashmi113/devblogs), a full-stack blog hosting app.  
 🐱 Cat feeder by day, chai lover by night. ☕  
 📍 Based in Islamabad, open to relocation or remote roles.   
